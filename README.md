@@ -18,7 +18,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### Project Structure
 
-SignupForm: Handles user registration, including real-time validation for usernames and emails. It features password strength checking and dynamic feedback for errors.
-Content: Displays introductory information about the AAK Tele-Science platform.
-SignInSide: Integrates the SignupForm and Content components, managing the layout and conditional rendering based on signup success.
+- SignupForm: Handles user registration, including real-time validation for usernames and emails. It features password strength checking and dynamic feedback for errors.
+- Content: Displays introductory information about the AAK Tele-Science platform.
+- SignInSide: Integrates the SignupForm and Content components, managing the layout and conditional rendering based on signup success.
 
