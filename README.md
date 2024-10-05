@@ -22,3 +22,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - Content: Displays introductory information about the AAK Tele-Science platform.
 - SignInSide: Integrates the SignupForm and Content components, managing the layout and conditional rendering based on signup success.
 
+<img width="1920" alt="image" src="https://github.com/user-attachments/assets/e50f4e2a-2a16-49a0-a9d6-c6ec00aafbb4">
+
+
